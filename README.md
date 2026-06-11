@@ -1,19 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=FF9933&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%9A%A9+%E0%A4%9C%E0%A4%AF+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%B0%E0%A4%BE%E0%A4%AE+%F0%9F%9A%A9;%E0%A4%AA%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B+%E0%A4%AE%E0%A5%8D%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A5%87+GitHub+%E0%A4%AE%E0%A5%87%E0%A4%82+%F0%9F%90%AA;I'm+Jitendra+Kumar+Saini;Python+%7C+AI+%7C+Computer+Vision" alt="Typing SVG" />
-
-# 🕉️ राम राम सा! 🙏
-
-### 🏜️ राजस्थान री माटी रो बेटो &nbsp;|&nbsp; 🚩 सनातनी &nbsp;|&nbsp; 💻 Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=FF9933&center=true&vCenter=true&width=700&height=60&lines=Ram+Ram+sa!+I'm+Jitendra+Kumar+Saini;Python+%7C+AI+%7C+Computer+Vision;Padharo+Mhare+GitHub" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-> ### कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
-> ### मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥
->
-> *— श्रीमद्भगवद्गीता 2.47*
 
 <img src="https://komarev.com/ghpvc/?username=jitendra205saini&style=for-the-badge&color=ff9933&label=PROFILE+VIEWS" alt="Profile views" />
 
@@ -21,18 +10,16 @@
 
 <br>
 
-## 🐪 म्हारे बारे में (About Me)
+## About Me
 
-- 🔭 Currently working on **AI & Computer Vision projects** — Face Recognition Attendance System
-- 🌱 Learning **Machine Learning, Deep Learning & Backend Development**
-- 🏰 From the land of forts, deserts & warriors — **Rajasthan, India** 🇮🇳
-- 🙏 Believer of **Sanatan Dharma** — कर्म करो, फल की चिंता मत करो
-- 📫 Reach me: **jitendra205saini@gmail.com**
-- ⚡ Fun fact: *म्हारो राजस्थान — जठै रेत भी सोनो है!* ✨
+- Working on **AI & Computer Vision projects** — Face Recognition Attendance System, NLP Dashboard
+- Learning **Machine Learning, Deep Learning & Backend Development**
+- From the land of forts and deserts — **Rajasthan, India**
+- Reach me: **jitendra205saini@gmail.com**
 
 <br>
 
-## 🛠️ अस्त्र-शस्त्र (Tech Stack)
+## Tech Stack
 
 <div align="center">
 
@@ -51,7 +38,7 @@
 
 <br>
 
-## 📊 GitHub आँकड़े (Stats)
+## GitHub Stats
 
 <div align="center">
 
@@ -70,7 +57,7 @@
 
 <br>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -80,7 +67,7 @@
 
 <br>
 
-## 🤝 जुड़िये म्हारे साथ (Connect With Me)
+## Connect With Me
 
 <div align="center">
 
@@ -88,12 +75,14 @@
 <a href="https://www.linkedin.com/in/jitendarkumarsaini25/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/jitendra205saini"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<br><br>
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
-### 🚩 जय श्री राम &nbsp;•&nbsp; जय भवानी &nbsp;•&nbsp; जय राजस्थान 🚩
+<div align="center">
 
-**पधारो म्हारे देश** 🐪🏜️🏰
+<img src="https://raw.githubusercontent.com/jitendra205saini/jitendra205saini/main/assets/camel.svg" width="100%" alt="Walking camel in the Thar desert" />
+
+**Padharo Mhare Desh**
 
 </div>

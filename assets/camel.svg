@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="130" viewBox="0 0 800 130">
+  <!-- setting sun -->
+  <circle cx="690" cy="38" r="20" fill="#FF9933" opacity="0.95">
+    <animate attributeName="opacity" values="0.95;0.7;0.95" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="690" cy="38" r="28" fill="#FF9933" opacity="0.25">
+    <animate attributeName="r" values="28;33;28" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- stars -->
+  <circle cx="80" cy="25" r="1.5" fill="#FFD9A0"><animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="200" cy="45" r="1.2" fill="#FFD9A0"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="350" cy="20" r="1.5" fill="#FFD9A0"><animate attributeName="opacity" values="1;0.3;1" dur="3.5s" repeatCount="indefinite"/></circle>
+  <circle cx="480" cy="40" r="1.2" fill="#FFD9A0"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.8s" repeatCount="indefinite"/></circle>
+  <circle cx="580" cy="18" r="1.5" fill="#FFD9A0"><animate attributeName="opacity" values="1;0.2;1" dur="3.2s" repeatCount="indefinite"/></circle>
+
+  <!-- sand dunes -->
+  <path d="M0 98 Q 150 72 300 98 T 600 98 T 800 94 L 800 130 L 0 130 Z" fill="#E0A458" opacity="0.45"/>
+  <path d="M0 110 Q 200 90 400 110 T 800 110 L 800 130 L 0 130 Z" fill="#C2854F" opacity="0.55"/>
+
+  <!-- walking camel -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-2.5; 0,0" dur="0.7s" repeatCount="indefinite"/>
+    <text y="100" font-size="42">🐪<animate attributeName="x" from="820" to="-70" dur="16s" repeatCount="indefinite"/></text>
+  </g>
+</svg>
