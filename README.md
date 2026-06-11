@@ -81,7 +81,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jitendra205saini/jitendra205saini/main/assets/camel.svg" width="100%" alt="Walking camel in the Thar desert" />
+<img src="https://raw.githubusercontent.com/jitendra205saini/jitendra205saini/main/assets/desert.gif" width="100%" alt="Camel walking through the Thar desert at sunset" />
 
 **Padharo Mhare Desh**
 
