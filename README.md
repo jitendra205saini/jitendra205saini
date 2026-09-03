@@ -1,54 +1,44 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=800&color=F8F8F8&center=true&vCenter=true&width=700&height=50&lines=Ram+Ram+sa!+I%27m+Jitendra+Kumar+Saini;AI%2FML+Engineer+%7C+Python+Developer;Building+Intelligent+Systems." alt="Typing SVG" />
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-F8F8F8?style=for-the-badge&logo=vercel&logoColor=000000)](https://jitendra205saini.github.io/portfolio/)
-<img src="https://komarev.com/ghpvc/?username=jitendra205saini&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://raw.githubusercontent.com/jitendra205saini/jitendra205saini/main/assets/header.svg" width="100%" alt="Jitendra Kumar Saini — AI/ML Engineer" />
 
 </div>
 
 <br>
-
-## About Me
 
 ```bash
 $ whoami
 Jitendra Kumar Saini — AI/ML Engineer, Python Developer
 
-$ cat focus.txt
-Computer Vision · LLM Orchestration · Backend APIs
+$ cat stack.yaml
+language     : Python, SQL, C/C++
+ai_ml        : TensorFlow, Scikit-learn, OpenCV, dlib
+llm_agents   : LangChain, LangGraph, RAG, Groq
+backend      : FastAPI, Flask, MySQL
+data_viz     : NumPy, Pandas, Matplotlib, Streamlit
+deploy       : Render, Vercel, Git, Linux
 
-$ cat location.txt
-Rajasthan, India — open to remote & relocation
-
-$ echo $EMAIL
-jitendra205saini@gmail.com
+$ cat contact.txt
+portfolio  https://jitendra205saini.github.io/portfolio
+email      jitendra205saini@gmail.com
+location   Rajasthan, India — open to remote
 ```
 
 <br>
 
-## Tech Stack
+## Contribution Snake
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=F8F8F8)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=F8F8F8)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=F8F8F8)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=F8F8F8)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=F8F8F8)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=F8F8F8)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F8F8F8)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=F8F8F8)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F8F8F8)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=F8F8F8)
+<img src="https://raw.githubusercontent.com/jitendra205saini/jitendra205saini/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
 <br>
 
-## GitHub Stats
+<details>
+<summary><strong>GitHub Activity</strong></summary>
+<br>
 
 <div align="center">
 
@@ -65,19 +55,11 @@ jitendra205saini@gmail.com
 
 </div>
 
-<br>
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jitendra205saini/jitendra205saini/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
+</details>
 
 <br>
 
-## Connect With Me
+## Connect
 
 <div align="center">
 
@@ -86,6 +68,10 @@ jitendra205saini@gmail.com
 <a href="https://github.com/jitendra205saini"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=F8F8F8" alt="GitHub" /></a>
 <a href="https://www.kaggle.com/jitendrakumarsaini25"><img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=F8F8F8" alt="Kaggle" /></a>
 <a href="https://huggingface.co/jitendra25"><img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=F8F8F8" alt="HuggingFace" /></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=jitendra205saini&style=flat-square&color=000000&label=views" height="20" alt="Profile views" />
 
 </div>
 
