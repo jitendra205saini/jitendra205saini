@@ -79,7 +79,7 @@ location   Rajasthan, India — open to remote
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jitendra205saini/jitendra205saini/main/assets/desert.gif" width="100%" alt="Camel walking through the Thar desert at sunset" />
+<img src="https://raw.githubusercontent.com/jitendra205saini/jitendra205saini/main/assets/desert.svg" width="100%" alt="Camel walking through the Thar desert at sunset" />
 
 **Padharo Mhare Desh**
 
