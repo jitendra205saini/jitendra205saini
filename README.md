@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jitendra205saini/jitendra205saini/main/assets/header.svg" width="100%" alt="Jitendra Kumar Saini — AI/ML Engineer" />
+<a href="https://jitendra205saini.github.io/portfolio/"><img src="https://raw.githubusercontent.com/jitendra205saini/jitendra205saini/main/assets/header.svg" width="100%" alt="Jitendra Kumar Saini — AI/ML Engineer" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=AAAAAA&center=true&vCenter=true&width=600&lines=Training+models+that+see%2C+read+and+reason;Shipping+RAG+pipelines+and+LLM+agents;Turning+data+into+decisions" alt="Typing intro" /></a>
 
