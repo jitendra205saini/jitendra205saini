@@ -24,6 +24,15 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=%23000000&color_dots=%23ebedf0,%23cfcfcf,%23999999,%23555555,%23000000
             dist/github-contribution-grid-snake-dark.svg?color_snake=%23F8F8F8&color_dots=%23161b22,%23333333,%23555555,%23888888,%23F8F8F8
 
+      - uses: actions/checkout@v4
+        with:
+          path: src
+
+      - name: Generate contribution dunes
+        run: python src/scripts/dunes.py ${{ github.repository_owner }} dist/contribution-dunes.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:

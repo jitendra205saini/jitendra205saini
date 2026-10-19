@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/jitendra205saini/jitendra205saini/main/assets/header.svg" width="100%" alt="Jitendra Kumar Saini — AI/ML Engineer" />
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=AAAAAA&center=true&vCenter=true&width=600&lines=Training+models+that+see%2C+read+and+reason;Shipping+RAG+pipelines+and+LLM+agents;Turning+data+into+decisions" alt="Typing intro" /></a>
+
 </div>
 
 <br>
@@ -10,13 +12,10 @@
 $ whoami
 Jitendra Kumar Saini — AI/ML Engineer, Python Developer
 
-$ cat stack.yaml
-language     : Python, SQL, C/C++
-ai_ml        : TensorFlow, Scikit-learn, OpenCV, dlib
-llm_agents   : LangChain, LangGraph, RAG, Groq
-backend      : FastAPI, Flask, MySQL
-data_viz     : NumPy, Pandas, Matplotlib, Streamlit
-deploy       : Render, Vercel, Git, Linux
+$ cat now.md
+→ building LLM agents with LangGraph + RAG
+→ computer vision with OpenCV & dlib
+→ shipping ML apps end-to-end with FastAPI + Streamlit
 
 $ cat contact.txt
 portfolio  https://jitendra205saini.github.io/portfolio
@@ -26,11 +25,52 @@ location   Rajasthan, India — open to remote
 
 <br>
 
-## Contribution Snake
+## Stack
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jitendra205saini/jitendra205saini/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=F8F8F8" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=F8F8F8" alt="SQL" />
+<img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=F8F8F8" alt="C++" />
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=F8F8F8" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=F8F8F8" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=F8F8F8" alt="OpenCV" />
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=F8F8F8" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langgraph&logoColor=F8F8F8" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Groq-000000?style=flat-square&logoColor=F8F8F8" alt="Groq" />
+<br>
+<img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=F8F8F8" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=F8F8F8" alt="Flask" />
+<img src="https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=F8F8F8" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=F8F8F8" alt="Pandas" />
+<img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=F8F8F8" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=F8F8F8" alt="Render" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=F8F8F8" alt="Vercel" />
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F8F8F8" alt="Git" />
+<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=F8F8F8" alt="Linux" />
+
+</div>
+
+<br>
+
+<!--
+## Featured Work
+
+Apne best 4 repos ke naam yahan daalo aur is comment block ko hata do:
+
+<div align="center">
+<a href="https://github.com/jitendra205saini/REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jitendra205saini&repo=REPO_1&title_color=F8F8F8&icon_color=F8F8F8&text_color=AAAAAA&bg_color=0B0B0B&border_color=2A2A2A" /></a>
+<a href="https://github.com/jitendra205saini/REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jitendra205saini&repo=REPO_2&title_color=F8F8F8&icon_color=F8F8F8&text_color=AAAAAA&bg_color=0B0B0B&border_color=2A2A2A" /></a>
+</div>
+-->
+
+## Contribution Dunes
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/jitendra205saini/jitendra205saini/output/contribution-dunes.svg" width="100%" alt="Contribution calendar as a desert night: stars are daily commits, dunes are weekly totals, a camel walks the ridge" />
+
+<sub>stars = daily commits &#183; dunes = weekly totals &#183; one camel, always walking</sub>
 
 </div>
 
@@ -51,6 +91,10 @@ location   Rajasthan, India — open to remote
 
 <br><br>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jitendra205saini&bg_color=0B0B0B&color=AAAAAA&line=F8F8F8&point=F8F8F8&area=true&area_color=333333&hide_border=false&border_color=2A2A2A" width="100%" alt="Contribution graph" />
+
+<br><br>
+
 <img src="https://github-profile-trophy.vercel.app/?username=jitendra205saini&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophies" />
 
 </div>
@@ -63,6 +107,7 @@ location   Rajasthan, India — open to remote
 
 <div align="center">
 
+<a href="https://jitendra205saini.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=F8F8F8" alt="Portfolio" /></a>
 <a href="mailto:jitendra205saini@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=F8F8F8" alt="Gmail" /></a>
 <a href="https://www.linkedin.com/in/jitendarkumarsaini25/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=F8F8F8" alt="LinkedIn" /></a>
 <a href="https://github.com/jitendra205saini"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=F8F8F8" alt="GitHub" /></a>
