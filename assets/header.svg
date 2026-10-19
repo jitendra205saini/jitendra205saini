@@ -26,17 +26,14 @@
   <rect x="0.5" y="0.5" width="899" height="239" fill="none" stroke="#2A2A2A"/>
 
   <!-- terminal chrome -->
-  <circle cx="24" cy="20" r="4" fill="none" stroke="#555555"/>
-  <circle cx="40" cy="20" r="4" fill="none" stroke="#555555"/>
-  <circle cx="56" cy="20" r="4" fill="none" stroke="#555555"/>
   <text x="450" y="24" class="mono" font-size="11" fill="#555555" text-anchor="middle" letter-spacing="1">~/jitendra — zsh</text>
 
-  <g class="in d1" transform="translate(60,72) scale(3.2)">
+  <g transform="translate(60,72) scale(3.2)"><g class="in d1">
     <path d="M16,7 L16,14 L23,10 L16,18 L23,22 L16,26 Q10,26 9,21"
           stroke="#F8F8F8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
     <circle cx="23" cy="10" r="2" fill="#F8F8F8"/>
     <circle cx="23" cy="22" r="2" fill="#F8F8F8"/>
-  </g>
+  </g></g>
 
   <text x="200" y="110" class="mono in d2" font-size="34" font-weight="700" fill="#F8F8F8" letter-spacing="1">JITENDRA KUMAR SAINI</text>
   <text x="201" y="137" class="mono in d3" font-size="14" font-weight="500" fill="#AAAAAA" letter-spacing="3">AI/ML ENGINEER &#183; PYTHON DEVELOPER &#183; LLM ORCHESTRATION</text>
