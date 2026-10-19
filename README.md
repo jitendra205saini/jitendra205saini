@@ -108,9 +108,8 @@ Apne best 4 repos ke naam yahan daalo aur is comment block ko hata do:
 <div align="center">
 
 <a href="https://jitendra205saini.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=F8F8F8" alt="Portfolio" /></a>
-<a href="mailto:jitendra205saini@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=F8F8F8" alt="Gmail" /></a>
-<a href="https://www.linkedin.com/in/jitendarkumarsaini25/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=F8F8F8" alt="LinkedIn" /></a>
-<a href="https://github.com/jitendra205saini"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=F8F8F8" alt="GitHub" /></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;to=jitendra205saini@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=F8F8F8" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/jitendarkumarsaini25/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0Y4RjhGOCI%2BPHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D&logoColor=F8F8F8" alt="LinkedIn" /></a>
 <a href="https://www.kaggle.com/jitendrakumarsaini25"><img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=F8F8F8" alt="Kaggle" /></a>
 <a href="https://huggingface.co/jitendra25"><img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=F8F8F8" alt="HuggingFace" /></a>
 
