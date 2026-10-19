@@ -67,10 +67,25 @@ def ridge(heights, scale, lift, step):
     return [(x, DUNE_BASE - lift - (h / top) ** .6 * DUNE_MAX * scale) for x, h in zip(xs, sm)]
 
 
-CAMEL = ("M-14,0 L-13,-8 L-15,-13 L-12,-12 L-10,-9 L-6,-10 L-4,-16 L0,-17 L3,-12 "
-         "L6,-16 L9,-16 L11,-11 L13,-15 L13,-20 L16,-22 L19,-21 L17,-18 L16,-12 "
-         "L13,-7 L12,0 L10,0 L10,-6 L5,-7 L4,0 L2,0 L2,-7 L-6,-7 L-7,0 L-9,0 "
-         "L-9,-7 L-11,-6 L-12,0 Z")
+def leg(x, phase):
+    """A two-segment leg hanging from the belly, swinging while it walks."""
+    return (f'<g transform="translate({x},-14)"><path d="M0,0 L-0.6,7 L0,14" stroke="#F8F8F8" '
+            f'stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>'
+            f'<animateTransform attributeName="transform" type="rotate" additive="sum" '
+            f'values="{-14 * phase};{14 * phase};{-14 * phase}" dur="0.9s" repeatCount="indefinite"/></g>')
+
+
+# single-hump dromedary facing right, feet at y=0
+CAMEL = (
+    leg(-9, 1) + leg(7, -1)  # far legs first so the body overlaps them
+    + '<path d="M-14,-17 Q-17,-12 -15,-8" stroke="#F8F8F8" stroke-width="1.4" '
+      'fill="none" stroke-linecap="round"/>'
+    + '<path d="M-14,-15 Q-15,-21 -9,-22 Q-2,-37 3,-33 Q8,-29 10,-22 '
+      'Q13,-22 14,-26 Q15,-33 18,-36 Q21,-38 24,-36 L25,-34 Q22,-34 20,-31 '
+      'Q18,-24 16,-18 Q14,-13 9,-12 L-10,-12 Q-14,-12 -14,-15 Z" fill="#F8F8F8"/>'
+    + '<circle cx="21.5" cy="-35.5" r="0.6" fill="#0B0B0B"/>'
+    + leg(-6, -1) + leg(10, 1)
+)
 
 LEVELS = ["#1A1A1A", "#444444", "#7A7A7A", "#B5B5B5", "#F8F8F8"]
 
@@ -128,7 +143,7 @@ def render(total, weeks):
     # camel walking the near ridge
     path = smooth([(x, y - 1) for x, y in near])
     out.append(f'<path id="ridge" d="{path}" fill="none"/>')
-    out.append(f'<g><path d="{CAMEL}" fill="#F8F8F8"/>'
+    out.append(f'<g>{CAMEL}'
                f'<animateMotion dur="40s" repeatCount="indefinite" rotate="auto">'
                f'<mpath href="#ridge"/></animateMotion></g>')
 
